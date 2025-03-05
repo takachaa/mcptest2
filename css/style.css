@@ -1,0 +1,22 @@
+/* Custom styles */
+.container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.welcome-section {
+  background-color: #f8f9fa;
+  padding: 3rem 0;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.welcome-section h1 {
+  color: #0d6efd;
+  margin-bottom: 1rem;
+}
+
+.welcome-section p {
+  font-size: 1.2rem;
+  color: #6c757d;
+}
